@@ -1,0 +1,16 @@
+{
+  "name": "future-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "x.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^12.5.1",
+    "ytdl-core": "^4.4.5"
+  }
+}
